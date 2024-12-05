@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm373batch13-086-kpxyz0id.jpg?w=1300&dpr=1&fit=default&crop=default&q=80&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=00c2d7b35d84cdb4c43982f06dc50e84);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.Calculation
+{
+    margin-top: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+}
+img
+{
+    width: 150px;
+}
+img:hover
+{
+    transform: scale(1.1);
+}
+.Calculation-Name
+{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap:68px;
+    margin-top: 270px;
+    color: rgb(5, 239, 247);
+}
+.c1:hover
+{
+    text-decoration: underline red;
+}
+.c2:hover
+{
+    text-decoration: underline red;
+}
+.c3:hover
+{
+    text-decoration: underline red;
+}
+.c4:hover
+{
+    text-decoration: underline red;
+
+}
+.c1
+{
+    margin-left: 60px;
+}
+.c2
+{
+    padding-left: 40px;
+    padding-right: 10px;
+}
+.c3
+{
+    padding-right: 40px;
+}
